@@ -10,8 +10,12 @@ is same kind of presaved and unpublished commit.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+just select files contained only that logical change and commit it.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+in situation when i want to create another option of code
 
 How do the diagrams help you visualize the branch structure?
 
